@@ -1,7 +1,7 @@
 <!-- Short description -->
-# ESP32-POE-A-PlatformIO-Example
+# Esp32-Stick-PlatformIO-Example
 ## Short description
-This project presents example for ESP32-POE-A development board. It blinks a led, when you connect ethernet cable it will start pinging google.com (Check serial port output).
+This project presents example for Esp32-Stick development boards. It blinks a led, when you connect ethernet cable it will start pinging google.com (Check serial port output).
 The project was made in Vscode using PlatformIO.
 
 ## Flashing 
