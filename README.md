@@ -8,4 +8,3 @@ The project was made in Vscode using PlatformIO.
 1. Open project folder with Vscode, (Platoformio extension must be installed).
 2. Press Ctrl-Alt-U, it will build and upload the project.
 3. See the results.
-# Esp32-Stick-Platformio-Examples
